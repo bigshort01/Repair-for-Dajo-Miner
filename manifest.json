@@ -1,0 +1,12 @@
+{
+  "name": "다조 PCB 수리 (통합본)",
+  "version": "1.0.0",
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "target.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
